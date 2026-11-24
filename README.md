@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/muhammadaldy198/funniest-autocorrect-fail/rank.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
 [![reward](https://make.fun/badge/u-zeroxfive-funniest-autocorrect-fail-ddf82154/muhammadaldy198/funniest-autocorrect-fail/reward.svg)](https://make.fun/bounty/u-zeroxfive-funniest-autocorrect-fail-ddf82154?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-funniest-autocorrect-fail-ddf82154)
 
-One-line autocorrect fail: a text asking for an address arrives with adders in the driveway, and they want the Wi-Fi password.
+A one-line autocorrect fail: asking for an address summons adders to the driveway — and they want the Wi-Fi password.
 
 ## Run it
 
